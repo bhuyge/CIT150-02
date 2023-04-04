@@ -6,6 +6,13 @@ Manufacturer: Endress+Hauser
 
 Model: CLS15D
 
+| Process Variables      | Range | 
+| ----------- | ----------- |
+| Conductivity k=0.01     | 0.04 - 20 µS/cm       |
+| Conductivity k=0.1  | 0.1 - 200 µS/cm        |
+|Temperature| -4 - 248 °F|
+
+Installed on 03/23/2023
 
 For the 2023 *Process Analytics* course.
 
