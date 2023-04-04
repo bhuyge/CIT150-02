@@ -7,3 +7,7 @@ Manufacturer: Endress+Hauser
 Model: CLS15D
 
 
+For the 2023 *Process Analytics* course.
+
+![Photo 1](https://raw.githubusercontent.com/henthornlab/CIT150-02/main/cit150-02-install-1.jpeg)
+![Photo 2](https://raw.githubusercontent.com/henthornlab/CIT150-02/main/cit150-02-install-4.jpeg)
