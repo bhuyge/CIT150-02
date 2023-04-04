@@ -2,9 +2,10 @@
 # CIT150-02
 This is a conductivity indicator and transmitter installed in Area 150: Reverse Osmosis. It measures the conducivity in the permeate stream.
 
-Manufacturer: Endress+Hauser
 
-Model: CLS15D
+| Manufacturer      | Model |
+| ----------- | ----------- |
+| Endress+Hauser      | CLS15D       |
 
 | Process Variables      | Range | 
 | ----------- | ----------- |
